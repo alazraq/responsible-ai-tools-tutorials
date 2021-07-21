@@ -351,6 +351,4 @@ MigrationBackup/
 
 notebooks/
 
-.ipynb_checkpoints/
-
-hands_on_tutorials/.ipynb_checkpoints/
+.ipynb_checkpoints

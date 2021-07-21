@@ -4,9 +4,9 @@
 
 
 This repository contains hands-on tutorials for Microsoft's most prominent Responsible AI tools.
-It is primarily designed for developers and data scientists to provide them with jump-start for using each tool in the form of jupyter notebooks. 
+It is primarily designed for developers and data scientists to provide them with jump-start guides for using each tool in the form of jupyter notebooks. 
 
-Responsible AI is still an underrated subject among data scientists and AI practicionners more broadly and today a huge gap between principles and practices exists when it comes to implementing AI systems in a more responsible manner. These tutorials are meant to accompagny the whitepaper "Putting Responsible AI into practice" which tackles exactly this issue and can be found under the whitepaper folder.
+Responsible AI is still an underrated subject among data scientists and AI practicionners more broadly and today a huge gap between principles and practices exists when it comes to implementing AI systems in a more responsible manner. These tutorials are meant to accompagny the whitepaper "Putting Responsible AI into practice for your AI-based solutions" which tackles exactly this issue and can be found under the whitepaper folder.
 
 ## Overview of the available hands-on tutorials
 

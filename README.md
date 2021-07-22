@@ -25,7 +25,7 @@ We investigate three categories of Responsible AI tools:
 Please be aware that the notebooks provided here are simplified versions of sample notebooks provided as examples in each tool's repository. The goal is to provide minimal working code for each tool and to aggregate these guides under one roof. 
 If you would like to go further and access more complete demos, we provide the links to the original notebooks below:
 
-- [Fairlearn] (https://github.com/fairlearn/fairlearn/blob/main/notebooks/Binary%20Classification%20with%20the%20UCI%20Credit-card%20Default%20Dataset.ipynb)
+- [Fairlearn](https://github.com/fairlearn/fairlearn/blob/main/notebooks/Binary%20Classification%20with%20the%20UCI%20Credit-card%20Default%20Dataset.ipynb)
 - [InterpretML](https://github.com/interpretml/interpret-community/blob/master/notebooks/explain-binary-classification-local.ipynb)
 - [Error Analysis](https://github.com/microsoft/responsible-ai-widgets/blob/main/notebooks/erroranalysis-dashboard-multiclass.ipynb)
 - [Presidio](https://github.com/microsoft/presidio/blob/main/docs/samples/python/presidio_notebook.ipynb)

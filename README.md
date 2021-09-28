@@ -1,6 +1,6 @@
 # Responsible AI tools tutorials
 
-<img src="responsible_ai_tools_tutorials.png" alt="Repository logo" width="800"/>
+<img src="repo_picture.jpg" alt="Repository logo" width="800"/>
 
 
 This repository contains hands-on tutorials for Microsoft's most prominent Responsible AI tools.
